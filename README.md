@@ -1,3 +1,6 @@
+This study was presented at the SIU2024 conference and shared on the IEEE Explore website (https://ieeexplore.ieee.org/abstract/document/10600977).
+
+
 The dataset used in this project is the open source BRACS which divides breast cancer into 3 categories: benign, malignant and unusual. The dataset is divided into test, training and validation parts and contains hematoxylin and eosin stained RoI images for each category. 
 
 The project aims to achieve high accuracy rates by enabling automatic feature extraction and sectioning of breast cancer images through deep learning methods. 
